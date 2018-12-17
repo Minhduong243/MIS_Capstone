@@ -1,6 +1,6 @@
 //*********************************** Get mapbox API and get data from HTML *****************************************************
 
-mapboxgl.accessToken = 'pk.eyJ1IjoibWluaGR1b25nMjQzIiwiYSI6ImNqbHNvM3l0cTAxaXMzcHBiYnpvNjBsaXAifQ.NO598_UKYbyOIok45baiWA';
+mapboxgl.accessToken = ''; //Mapbox API goes here
 var colorcode = ['#17f3d1', '#65dc1e', '#1743f3', '#ba55d3', '#e55e5e', '#FFFF00'];
 var Missionarea = JSON.parse(document.getElementById('missionlist').textContent);
 var showlist = [] //the array of layerIDs, used to categorize layers

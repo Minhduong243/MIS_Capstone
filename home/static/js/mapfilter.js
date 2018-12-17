@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoibG9va3VwbWFuIiwiYSI6ImNqbW41cmExODBxaTEzeHF0MjhoZGg1MnoifQ.LGL5d5zGa1z6ms-IVyn7sw';
+mapboxgl.accessToken = ''; //Mapbox API goes here
 var communityDatas="";
 var k12Datas="";
 var districtData="";

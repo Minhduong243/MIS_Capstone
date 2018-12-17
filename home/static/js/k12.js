@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoibWluaGR1b25nMjQzIiwiYSI6ImNqbHNvM3l0cTAxaXMzcHBiYnpvNjBsaXAifQ.NO598_UKYbyOIok45baiWA';
+mapboxgl.accessToken = ''; //Mapbox API goes here
 // This adds the map to your page
 if (!('remove' in Element.prototype)) {
     Element.prototype.remove = function() {

@@ -31,7 +31,7 @@ from shapely.geometry import shape, Point
 import os
 
 # Google Maps API Key
-gmaps = googlemaps.Client(key='AIzaSyBoBkkxBnB7x_GKESVPDLguK0VxSTSxHiI')
+gmaps = googlemaps.Client(key='') #Google geocoding API
 # 
 
 
